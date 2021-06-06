@@ -163,7 +163,7 @@ IPage<Map<String, Object>> pageMaps(IPage<T> page, Wrapper<T> queryWrapper);
 ##### 参数说明
 | 类型 | 参数名 | 描述 |
 | :-: | :-: | :-: |
-| IPage&#60;T&#62; | page | 翻页对象 |
+| IPage&#60;T&#62; | page | 分页对象 |
 | Wrapper&#60;T&#62; | queryWrapper | 实体对象封装操作类 QueryWrapper |
 
 
